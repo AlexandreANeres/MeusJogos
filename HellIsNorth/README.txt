@@ -1,0 +1,1 @@
+Esse foi o primeiro jogo que produzi em uma linguagem de programação de verdade, totalmente autoral e feito do zero com poucos recursos e tempo. Espero que aproveite ele tanto quanto eu o admiro, boa Gameplay!
